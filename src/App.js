@@ -35,7 +35,7 @@ textChange = (event) => {
       <div className="App-header">
 
         <img src={logo} className="App-logo grow" alt="oopsoops"/>
-        <h1>Chuck Norris</h1>
+        <h1>The ultimate Chuck Norris Joke App</h1>
         <Searchbox textvalue = {this.textChange} pressedBtn = {this.BtnPressed}/>
         <JokeList jokes = {this.state.joke}/>
         </div>  
