@@ -1,0 +1,14 @@
+.Jokeboxes {
+display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.Joketext
+{
+	margin-top:0pxs;
+	font-size: 15px+1vw;
+	max-width: 80%
+
+}
